@@ -1595,3 +1595,11 @@ section.contact form button {
 .Virtual-section div a:hover {
   color: #7c7c7c;
 }
+@media (max-width: 480px) {
+    .youtube-section ifram {
+        width: 95%
+    }
+    .Virtual-section div {
+        width: 95%
+    }
+}
