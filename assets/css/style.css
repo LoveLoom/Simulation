@@ -291,6 +291,18 @@ a.menu-link {
   border: 2px solid #f5a425;
 }
 
+@media (max-width: 480px) {
+    .main-header .logo {
+        float: none;
+       line-height: 30px;
+       padding-left: 20px;
+     }
+
+   .main-header .logo a {
+     font-size: 24px;
+   }
+}
+
 @media (max-width: 950px) {
   .main-nav li:hover a,
   .main-nav li.active a {
