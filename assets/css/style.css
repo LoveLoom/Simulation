@@ -1596,7 +1596,7 @@ section.contact form button {
   color: #7c7c7c;
 }
 @media (max-width: 480px) {
-    .youtube-section ifram {
+    .youtube-section iframe {
         width: 95%
     }
     .Virtual-section div {
